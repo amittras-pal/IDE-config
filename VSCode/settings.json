@@ -1,0 +1,216 @@
+{
+  "editor.suggestSelection": "first",
+  "editor.fontFamily": "\"Fira Code\"",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true,
+  "editor.codeLens": true,
+  "editor.accessibilitySupport": "off",
+  "editor.minimap.renderCharacters": false,
+  "editor.suggest.preview": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.stickyScroll.enabled": true,
+  
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.startupEditor": "none",
+  "workbench.settings.applyToAllProfiles": [],
+  "workbench.list.smoothScrolling": true,
+  "workbench.settings.useSplitJSON": false,
+  "workbench.editorAssociations": {
+    "*.csv": "gc-excelviewer-csv-editor"
+  },
+
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+
+  "javascript.autoClosingTags": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  
+  "diffEditor.codeLens": true,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.defaultDateFormat": null,
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.lintTask.enable": true,
+  "window.newWindowDimensions": "maximized",
+  "tabnine.experimentalAutoImports": true,
+  
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "settingsSync.ignoredSettings": [],
+  "debug.javascript.autoAttachFilter": "onlyWithFlag",
+  
+  
+  "peacock.affectTabActiveBorder": true,
+  "peacock.darkenLightenPercentage": 9,
+  "peacock.darkForegroundColor": "#22221e",
+  "peacock.elementAdjustments": {
+    "activityBar": "lighten",
+    "statusBar": "none",
+    "titleBar": "none"
+  },
+  "peacock.favoriteColors": [
+    {
+      "name": "Mantine Indigo",
+      "value": "#3B5BDB"
+    },
+    {
+      "name": "Mantine Orange",
+      "value": "#F76707"
+    },
+    {
+      "name": "Mantine Green",
+      "value": "#37B24D"
+    },
+    {
+      "name": "Typescript Blue",
+      "value": "#235A97"
+    }
+  ],
+  "files.associations": {
+    "*.js": "javascript",
+    ".env.local": "properties"
+  },
+  "material-icon-theme.activeIconPack": "react_redux",
+  "material-icon-theme.files.associations": {},
+  "redhat.telemetry.enabled": false,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.rulers": [80],
+  "settingsSync.ignoredExtensions": [],
+  "editor.mouseWheelScrollSensitivity": 3,
+  "importCost.fontStyle": "oblique",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "vscode-pets.petSize": "medium",
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "todo-tree.general.tags": [
+    "BUG",
+    "FIXME",
+    "DEPRECATED",
+    "HACK",
+    "TODO",
+    "CHECK",
+    "ANALYZE",
+    "IMPLEMENT",
+    "NOTE"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "BUG": {
+      "icon": "bug",
+      "iconColour": "#F03E3E",
+      "background": "#E03131",
+      "foreground": "#FFC9C9"
+    },
+    "FIXME": {
+      "icon": "flame",
+      "iconColour": "#F03E3E",
+      "background": "#E03131",
+      "foreground": "#FFC9C9"
+    },
+    "DEPRECATED": {
+      "icon": "fold-down",
+      "iconColour": "#F03E3E",
+      "background": "#E03131",
+      "foreground": "#FFC9C9"
+    },
+    "IMPLEMENT": {
+      "icon": "alert",
+      "iconColour": "#FCC419",
+      "background": "#F08C00",
+      "foreground": "#FFEC99"
+    },
+    "TODO": {
+      "icon": "check",
+      "iconColour": "#339AF0",
+      "foreground": "#A5D8FF",
+      "background": "#1971C2"
+    },
+    "ANALYZE": {
+      "icon": "search",
+      "iconColour": "#FCC419",
+      "background": "#F08C00",
+      "foreground": "#FFEC99"
+    },
+    "HACK": {
+      "icon": "beaker",
+      "iconColour": "#F03E3E",
+      "background": "#E03131",
+      "foreground": "#FFC9C9"
+    }
+  },
+  "todo-tree.general.tagGroups": {
+    "TODO": ["TODO", "CHECK"]
+  },
+  "git.autofetch": true,
+  "git.autofetchPeriod": 1200,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+  "files.autoSave": "onFocusChange",
+  "files.autoSaveDelay": 5000,
+  "peacock.affectSashHover": false,
+  "peacock.affectActivityBar": false,
+  "sonarlint.focusOnNewCode": true,
+  "todo-tree.tree.buttons.scanMode": true,
+  "todo-tree.general.revealBehaviour": "start of line",
+  "editor.indentSize": "tabSize",
+  "editor.inlineSuggest.showToolbar": "always",
+  "[javascript][javascriptreact][typescript][typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "gitlens.views.commitDetails.files.layout": "tree",
+  "svg.preview.mode": "svg"
+}

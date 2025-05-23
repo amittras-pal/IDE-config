@@ -1,0 +1,43 @@
+:: tools
+eamodio.gitlens
+eriklynd.json-tools
+esbenp.prettier-vscode
+gruntfuggly.todo-tree
+grapecity.gc-excelviewer
+ms-azuretools.vscode-docker
+jock.svg
+ms-vscode.azure-repos
+ms-vscode.remote-repositories
+redhat.vscode-xml
+ritwickdey.liveserver
+sonarsource.sonarlint-vscode
+vscjava.vscode-maven
+
+:: visual enhancements
+antfu.icons-carbon
+enkia.tokyo-night
+johnpapa.vscode-peacock
+pkief.material-icon-theme
+zhuangtongfa.material-theme
+Katsute.code-background
+
+:: copilot & stuff
+github.codespaces
+github.copilot
+github.copilot-chat
+github.remotehub
+
+:: code and quality
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+formulahendry.auto-rename-tag
+orsenkucher.vscode-graphql
+mrmlnc.vscode-scss
+redhat.java
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+
+# wix.vscode-import-cost
+# bierner.lit-html
